@@ -8,6 +8,9 @@
 ## 🎥 Demo Video
 https://youtu.be/FFFVZ70Mt_E
 
+## 🎥 Sketch Video
+https://www.youtube.com/watch?v=RkE8c7gXehM
+
 ## ✨ Award
 ![8CFC0704-76D9-42F0-88CD-0B9FC7854B8A](https://github.com/user-attachments/assets/c4c4763f-c92c-4a20-ac42-ddd5a54639b1)
 
