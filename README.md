@@ -1,18 +1,23 @@
-# 🍏 Fridget
-**AI-Powered Recipe Recommendation Website**
-<br>**AI 기반 레시피 추천 웹사이트**
+# 🍏 AI 기반 레시피 추천 웹사이트, Fridget
+<img width="436" alt="Fridget Logo" src="https://github.com/user-attachments/assets/90350ef7-7f6f-41b3-8485-4d9d2a08c673" />
+<br><br>
 
-- 🔎 Check the [backend repository](https://github.com/sinaetown/Fridget_Backend.git) to see the backend codes.
-- 🔎 백엔드 코드는 [이 레포지토리](https://github.com/sinaetown/Fridget_Backend.git)를 참고해주세요.
+- 🔎 Check the [backend repository](https://github.com/sinaetown/FridgetServer.git) to see the backend codes.
+- 🔎 백엔드 코드는 [이 레포지토리](https://github.com/sinaetown/FridgetServer.git)를 참고해주세요.
 
-## 🎥 Demo Video
-https://youtu.be/FFFVZ70Mt_E
+---
 
-## 🎥 Sketch Video
-https://www.youtube.com/watch?v=RkE8c7gXehM
+## 🎥 Demo
+
+- **Demo Video**: https://youtu.be/FFFVZ70Mt_E  
+- **Sketch Video**: https://www.youtube.com/watch?v=RkE8c7gXehM
+
+---
 
 ## ✨ Award
 ![8CFC0704-76D9-42F0-88CD-0B9FC7854B8A](https://github.com/user-attachments/assets/c4c4763f-c92c-4a20-ac42-ddd5a54639b1)
+
+---
 
 ## 📌 Project Introduction
 <p> Use OpenAI API to find delicious recipes based on ingredients you already have in your fridge! 
@@ -46,17 +51,23 @@ https://www.youtube.com/watch?v=RkE8c7gXehM
 ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
 ### Backend
+![Java 11](https://img.shields.io/badge/java%2011-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java Spring](https://img.shields.io/badge/Java%20Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![JSON Web Tokens](https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### AI/ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+---
 
 ## 🏛️ Design Architecture
-<img width="797" alt="스크린샷 2025-02-23 오전 7 13 29" src="https://github.com/user-attachments/assets/1ec24ccb-e0a5-43ee-b839-1daa15e33d2e" />
+
+![Fridget Architecture](https://github.com/user-attachments/assets/d9fd87f8-98a6-42b9-bb42-a1aaf5999612)
+
